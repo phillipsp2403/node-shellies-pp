@@ -1,5 +1,5 @@
 {
-  "name": "shellies-ds9",
+  "name": "shellies-pp",
   "version": "1.0.5",
   "description": "Handles communication with the next generation of Shelly devices",
   "main": "dist/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cubi1337/node-shellies-ds9.git"
+    "url": "git+https://github.com/cubi1337/node-shellies-pp.git"
   },
   "keywords": [
     "shelly"
@@ -25,9 +25,9 @@
   "author": "Alexander Rydén/ David S.",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/cubi1337/node-shellies-ds9/issues"
+    "url": "https://github.com/cubi1337/node-shellies-pp/issues"
   },
-  "homepage": "https://github.com/cubi1337/node-shellies-ds9#readme",
+  "homepage": "https://github.com/cubi1337/node-shellies-pp#readme",
   "funding": {
     "type": "kofi",
     "url": "https://ko-fi.com/cubi1337"
