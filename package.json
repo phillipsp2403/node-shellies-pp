@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cubi1337/node-shellies-pp.git"
+    "url": "git+https://github.com/phillipsp2403/node-shellies-pp.git"
   },
   "keywords": [
     "shelly"
@@ -25,12 +25,12 @@
   "author": "Alexander Rydén/ David S.",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/cubi1337/node-shellies-pp/issues"
+    "url": "https://github.com/phillipsp2403/node-shellies-pp/issues"
   },
-  "homepage": "https://github.com/cubi1337/node-shellies-pp#readme",
+  "homepage": "https://github.com/phillipsp2403/node-shellies-pp#readme",
   "funding": {
     "type": "kofi",
-    "url": "https://ko-fi.com/cubi1337"
+    "url": "https://ko-fi.com/phillipsp2403"
   },
   "devDependencies": {
     "@types/jest": "^29.5.11",
