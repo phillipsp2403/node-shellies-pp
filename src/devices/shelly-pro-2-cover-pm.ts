@@ -51,7 +51,7 @@ export class ShellyPro2CoverPm extends MultiProfileDevice {
   readonly cover0 = new Cover(this, 0);
 
   @component
-  readonly cover1 = new Cover(this, 0);
+  readonly cover1 = new Cover(this, 1);
 
   @component
   readonly switch0 = new Switch(this, 0);
